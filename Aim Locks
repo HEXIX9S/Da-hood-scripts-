@@ -1,0 +1,28 @@
+AIM LOCKS
+
+NYULA--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nyulachan/nyula/main/nyulauh"))()
+
+Nyula discord- https://discord.gg/nyula
+
+MOBILE LOCK (for pc aswell)--
+
+framework = {
+    Enabled = true,
+    Prediction = 0.1433,
+    HitscanPriority = "HumanoidRootPart",
+    FOV = 200,
+    Scan = false,
+    JumpOffset = 0
+}
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5859d948244d1fc2ec2b076c1abfbfa3.lua"))()
+
+ML discord- https://discord.gg/PqaxhWB8AM
+
+Aura x remake--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k0nkx/Aura-x-skid-ez-remake-by-k0nkx/main/Sigma"))()
+
+
