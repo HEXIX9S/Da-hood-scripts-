@@ -22,6 +22,11 @@ Vortex--
      
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImagineProUser/vortexdahood/main/vortex", true))()
 
+Enclosed--
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pvpahh/enclosed/main/enclosed'))()
+
+
 
 
 !!THESE ALL WORK!!
