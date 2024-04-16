@@ -1,0 +1,21 @@
+Swagmode--
+
+loadstring(game:HttpGet("https://pastebin.com/raw/CZcw7FEj", true))()
+
+
+Detazy--
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/I4MMO/Detazy/main/Main', true))()
+
+
+Space X--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood", true))()
+
+
+Faded-- 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
+
+
+!!THESE ALL WORK!!
