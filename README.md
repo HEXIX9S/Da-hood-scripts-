@@ -6,3 +6,7 @@ If the script does not work its most likely been patched but Head over to the di
 I have personally tried all these so i know they do work 
 
 Have fun using these and be safe..
+
+
+any other issues feel free to add me on dc-- hexix9s
+
