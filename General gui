@@ -26,7 +26,8 @@ Enclosed--
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Pvpahh/enclosed/main/enclosed'))()
 
+Nukermode--
 
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Whitelist.txt"))()
 
 !!THESE ALL WORK!!
